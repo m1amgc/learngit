@@ -1,1 +1,2 @@
 git test stage
+git add LICENSE
